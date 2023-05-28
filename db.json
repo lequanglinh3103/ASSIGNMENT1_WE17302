@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Sản Phẩm 1",
+      "price": 200,
+      "img": "https://picsum.photos/200/200"
+    },
+    {
+      "id": "2",
+      "name": "Sản Phẩm 2",
+      "price": 200,
+      "img": "https://picsum.photos/200/200"
+    },
+    {
+      "id": "3",
+      "name": "Sản Phẩm 3",
+      "price": 200,
+      "img": "https://picsum.photos/200/200"
+    }
+  ]
+}
